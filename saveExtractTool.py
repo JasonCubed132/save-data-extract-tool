@@ -1,4 +1,4 @@
-import sys
+import sys, os
 
 def main():
     if len(sys.argv < 8):
