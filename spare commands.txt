@@ -1,0 +1,3 @@
+Codes:
+['C:\\Users\\amcb2\\Downloads\\ninfs-1.6.1-win64\\ninfs.exe', 'sd', '-f', 'E:/Nintendo 3DS', 'K:', '--movable', 'E:/movable.sed', '-r']
+py -3 disa-extract.py 00000001.sav outputFolderName
